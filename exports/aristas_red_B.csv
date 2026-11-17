@@ -1,0 +1,62 @@
+"from","to","similitud"
+"Calama","Chiguayante",0.731767712339453
+"Calama","Concepción",0.74862340553509
+"Chiguayante","Concepción",0.861202819895207
+"Calama","Coronel",0.85373152164125
+"Chiguayante","Coronel",0.827876597023321
+"Concepción","Coronel",0.885600636106999
+"Chiguayante","Hualpén",0.83826381963035
+"Concepción","Hualpén",0.823416628992297
+"Coronel","Hualpén",0.777233157684372
+"Chiguayante","Hualqui",0.755922146325554
+"Concepción","Hualqui",0.725636470675712
+"Coronel","Hualqui",0.75539111818071
+"Hualpén","Hualqui",0.740670815225301
+"Curicó","Los Ángeles",0.907519586036486
+"Calama","Lota",0.801281327836876
+"Chiguayante","Lota",0.748757224050443
+"Concepción","Lota",0.847592685384502
+"Coronel","Lota",0.879580400307559
+"Hualpén","Lota",0.713134101849248
+"Hualqui","Lota",0.834197694834912
+"Calama","Penco",0.745787455533775
+"Chiguayante","Penco",0.862132602743298
+"Concepción","Penco",0.791269605221643
+"Coronel","Penco",0.828443943357633
+"Hualpén","Penco",0.778479574595394
+"Hualqui","Penco",0.891451125902228
+"Lota","Penco",0.848107890860749
+"Calama","San Pedro de la Paz",0.756169503059442
+"Chiguayante","San Pedro de la Paz",0.914096945616784
+"Concepción","San Pedro de la Paz",0.824182975762577
+"Coronel","San Pedro de la Paz",0.856606250197784
+"Hualpén","San Pedro de la Paz",0.794364328514597
+"Hualqui","San Pedro de la Paz",0.828633349877505
+"Lota","San Pedro de la Paz",0.804367427488433
+"Penco","San Pedro de la Paz",0.934518147446521
+"Curicó","Talca",0.933049165821959
+"Los Ángeles","Talca",0.888519780919547
+"Calama","Talcahuano",0.765061773989576
+"Chiguayante","Talcahuano",0.799010061630029
+"Concepción","Talcahuano",0.927797578554919
+"Coronel","Talcahuano",0.895659481593378
+"Hualpén","Talcahuano",0.783973504927051
+"Hualqui","Talcahuano",0.78720622394433
+"Lota","Talcahuano",0.904554875465406
+"Penco","Talcahuano",0.85011919376882
+"San Pedro de la Paz","Talcahuano",0.852699380223647
+"Curicó","Tocopilla",0.776724572180635
+"Los Ángeles","Tocopilla",0.786029667569909
+"Talca","Tocopilla",0.808994628523507
+"Concepción","Tomé",0.795586694340212
+"Coronel","Tomé",0.782518058888367
+"Hualpén","Tomé",0.712026827972869
+"Hualqui","Tomé",0.85153452778791
+"Lota","Tomé",0.865469615061359
+"Penco","Tomé",0.800579095155416
+"San Pedro de la Paz","Tomé",0.748375450057408
+"Talcahuano","Tomé",0.86122661032285
+"Curicó","Valdivia",0.923372745865031
+"Los Ángeles","Valdivia",0.932662764949189
+"Talca","Valdivia",0.886323684772692
+"Tocopilla","Valdivia",0.759007837297731

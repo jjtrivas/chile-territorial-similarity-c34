@@ -1,0 +1,62 @@
+"from","to","similitud"
+"Calama","Chiguayante",0.707177091557451
+"Calama","Concepción",0.801908094735986
+"Chiguayante","Concepción",0.813812881639598
+"Calama","Coronel",0.860811929158508
+"Chiguayante","Coronel",0.808745467142781
+"Concepción","Coronel",0.894273224423151
+"Chiguayante","Hualpén",0.854847903624974
+"Concepción","Hualpén",0.809323199560204
+"Coronel","Hualpén",0.794612848736359
+"Calama","Hualqui",0.733207333463105
+"Chiguayante","Hualqui",0.757159067809317
+"Concepción","Hualqui",0.771920661659825
+"Coronel","Hualqui",0.814163899945672
+"Hualpén","Hualqui",0.769570530581916
+"Curicó","Los Ángeles",0.908794920387858
+"Calama","Lota",0.829464351842869
+"Chiguayante","Lota",0.741415869375482
+"Concepción","Lota",0.87375732941892
+"Coronel","Lota",0.901695232193028
+"Hualpén","Lota",0.738548488822374
+"Hualqui","Lota",0.865278764398682
+"Los Ángeles","Maule",0.723990495697164
+"Calama","Penco",0.765772233534301
+"Chiguayante","Penco",0.848519117476365
+"Concepción","Penco",0.809443305215533
+"Coronel","Penco",0.857251311474624
+"Hualpén","Penco",0.809629307463226
+"Hualqui","Penco",0.906886137072931
+"Lota","Penco",0.864009204064319
+"Calama","San Pedro de la Paz",0.80541854381129
+"Chiguayante","San Pedro de la Paz",0.855632599998741
+"Concepción","San Pedro de la Paz",0.865988107753972
+"Coronel","San Pedro de la Paz",0.8746765590592
+"Hualpén","San Pedro de la Paz",0.78968309826989
+"Hualqui","San Pedro de la Paz",0.851317445129131
+"Lota","San Pedro de la Paz",0.843487510064829
+"Penco","San Pedro de la Paz",0.919028835952152
+"Curicó","Talca",0.948553276210753
+"Los Ángeles","Talca",0.893311468394437
+"Calama","Talcahuano",0.808096597251111
+"Chiguayante","Talcahuano",0.773308586766454
+"Concepción","Talcahuano",0.93970791009045
+"Coronel","Talcahuano",0.907957632363675
+"Hualpén","Talcahuano",0.78588113033701
+"Hualqui","Talcahuano",0.824238250437028
+"Lota","Talcahuano",0.922619245805337
+"Penco","Talcahuano",0.859720770451655
+"San Pedro de la Paz","Talcahuano",0.885533385409957
+"Calama","Tomé",0.704480852619189
+"Chiguayante","Tomé",0.728493741761923
+"Concepción","Tomé",0.803129498456908
+"Coronel","Tomé",0.813255274525122
+"Hualpén","Tomé",0.769341371093885
+"Hualqui","Tomé",0.86739706488964
+"Lota","Tomé",0.867478873617224
+"Penco","Tomé",0.84088269776901
+"San Pedro de la Paz","Tomé",0.769870189312765
+"Talcahuano","Tomé",0.858499709269626
+"Curicó","Valdivia",0.914958533262457
+"Los Ángeles","Valdivia",0.943770816715081
+"Talca","Valdivia",0.885938139287486
