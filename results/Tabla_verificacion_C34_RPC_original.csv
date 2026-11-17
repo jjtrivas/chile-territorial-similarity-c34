@@ -1,0 +1,19 @@
+"comuna","codigo_rpc","inicio_rpc","fin_rpc","casos_c34","casos_rpc_original","diferencia","coincide"
+"Calama",2201,2003,2015,213,213,0,TRUE
+"Chiguayante",8103,2006,2011,33,33,0,TRUE
+"Concepción",8101,2006,2011,208,208,0,TRUE
+"Coronel",8102,2006,2011,65,65,0,TRUE
+"Curicó",7301,2017,2019,50,50,0,TRUE
+"Hualpén",8112,2006,2011,46,46,0,TRUE
+"Hualqui",8105,2006,2011,14,14,0,TRUE
+"Los Ángeles",8301,2003,2014,250,250,0,TRUE
+"Lota",8106,2006,2011,35,35,0,TRUE
+"María Elena",2302,2003,2015,22,22,0,TRUE
+"Maule",7105,2017,2019,10,10,0,TRUE
+"Penco",8107,2006,2011,28,28,0,TRUE
+"San Pedro de la Paz",8108,2006,2011,66,66,0,TRUE
+"Talca",7101,2017,2019,90,90,0,TRUE
+"Talcahuano",8110,2006,2011,151,151,0,TRUE
+"Tocopilla",2301,2003,2015,156,156,0,TRUE
+"Tomé",8111,2006,2011,33,33,0,TRUE
+"Valdivia",14101,1998,2017,394,394,0,TRUE
