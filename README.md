@@ -4,13 +4,15 @@
 
 **Territorial similarity networks · Chile · Lung cancer (ICD-10 C34)**  
 **V Reunión Anual de la Sociedad Chilena de Bioinformática — November 2026**  
-**Reproducibility status (17 November 2026):** Three networks independently reconstructed from the final processed matrix; selected source-to-indicator calculations locally verified. **Full source-to-matrix reconstruction remains incomplete.**
+**Reproducibility status (17 November 2026):** All three networks recalculated and verified against archived outputs using the final processed matrix; selected calculations independently checked against institutional source files. **Full source-to-matrix reconstruction remains incomplete.**
+
+**Navigation:** [Overview](#overview) · [Network results](#network-specifications-and-results) · [Reproducibility](#reproducibility-and-validation) · [Run the checks](#how-to-run-the-checks) · [Sources and limitations](#data-sources-privacy-and-limitations)
 
 ## Overview
 
 This repository accompanies an exploratory ecological analysis of **18 Chilean communes** combining environmental-regulatory, social/housing, demographic, healthcare-infrastructure and lung-cancer indicators. Three network specifications examine how including crude or age-adjusted C34 rates changes the territorial similarity structure relative to a network that excludes C34.
 
-The edges represent **multidimensional similarity** between communes. They do **not** represent geographic proximity, cancer transmission, causal associations, or individual cancer risk. The network visualizations use a schematic layout, not a geographical map.
+The edges represent **multidimensional similarity** between communes. Matching edge counts across models do not necessarily imply that the models have the same edges. They do **not** represent geographic proximity, cancer transmission, causal associations, or individual cancer risk. The network visualizations use a schematic layout, not a geographical map.
 
 ## Network specifications and results
 
@@ -68,7 +70,7 @@ The environmental regulation/decree inventory has been documented, but its **ful
 
 ### 1. Validate archived processed objects and regenerate the figure
 
-Use **R 4.4.3** (the recorded analysis version) and an RStudio session opened from `chile-territorial-similarity-c34.Rproj`. Install the packages required for the scripts as needed:
+Use **R 4.4.3** (the recorded analysis version) and open `chile-territorial-similarity-c34.Rproj` in RStudio so relative paths resolve from the repository root. Install the packages required for the scripts as needed:
 
 ```r
 install.packages(c("igraph", "haven", "readxl"))
