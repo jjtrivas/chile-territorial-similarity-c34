@@ -1,0 +1,4 @@
+"red","nodos","enlaces_reconstruidos","enlaces_archivados","enlaces_identicos","componentes","aislados","error_maximo_distancia","matrices_coinciden"
+"A",18,61,61,TRUE,4,2,1.11022302462516e-16,TRUE
+"B",18,61,61,TRUE,4,2,1.11022302462516e-16,TRUE
+"A_ajustada",18,61,61,TRUE,4,2,1.11022302462516e-16,TRUE
